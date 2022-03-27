@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4dcbdc35-3286-280c-d6ae-353b023fe928
 resourcetype: Document
 title: fortworthassign.pdf
 uid: 9d262b9b-6f96-85f5-8d48-9694f767b035
