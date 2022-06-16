@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ TOPICS
 First Project: Thomson Island
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/thomisleassn))
+({{% resource_link 93ec7ce8-906f-2dbd-5d67-b725577c895d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ First Project: Thomson Island
 Fort Worth Assignment
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/fortworthassign))
+({{% resource_link 9d262b9b-6f96-85f5-8d48-9694f767b035 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Fort Worth Assignment
 Program
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/program))
+({{% resource_link 44cc8c15-ec03-4405-f09c-db8c3bdf4914 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ Program
 Assignment 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assn1))
+({{% resource_link 4af475f8-3685-2494-9ec7-7e574a81afc0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ Assignment 1
 Assignment 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assn2))
+({{% resource_link 0fd7a7d0-91e1-a496-bd47-a1b1a8bb41d1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +71,7 @@ Assignment 2
 Assignment 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assn3))
+({{% resource_link cc6571af-8b46-2b3f-6ccf-07bd266d7cc6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ Assignment 3
 Assignment 4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assn4))
+({{% resource_link d8bb7d01-3cfb-7c8f-59a2-caed9d36db1e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +89,7 @@ Assignment 4
 Assignment 5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assn5))
+({{% resource_link 8a342e1a-d52e-6de3-9cd7-958717517dc5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ Assignment 5
 Final Review Requirements
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/finalreview))
+({{% resource_link 2ca7d675-2fba-c880-32bc-3d39f1b8ad05 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
