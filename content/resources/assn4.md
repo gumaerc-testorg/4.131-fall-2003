@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/d8bb7d013cfb7c8f59a2caed9d36db1e_assn4.pdf
+file_size: 106665
 file_type: application/pdf
 learning_resource_types:
 - Assignments
