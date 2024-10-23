@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/40689e556aa85d292043a08cb3ba4593_thomisle.pdf
+file: /ol-ocw-studio-app/courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/40689e556aa85d292043a08cb3ba4593_thomisle.pdf
 file_size: 715577
 file_type: application/pdf
 learning_resource_types:
