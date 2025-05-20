@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Compilation of student work
-file: /ol-ocw-studio-app/courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/70716f3b943470683bf1bf7dbd497f7c_final.pdf
+file: /courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/70716f3b943470683bf1bf7dbd497f7c_final.pdf
 file_size: 668237
 file_type: application/pdf
 learning_resource_types:
